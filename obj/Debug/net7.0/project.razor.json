@@ -1,0 +1,76 @@
+{
+  "SerializedFilePath": "c:\\Users\\sinle\\OneDrive\\Documents\\FirstApi\\WeatherForecast.Web\\obj\\Debug\\net7.0\\project.razor.json",
+  "FilePath": "c:\\Users\\sinle\\OneDrive\\Documents\\FirstApi\\WeatherForecast.Web\\WeatherForecast.Web.csproj",
+  "Configuration": {
+    "ConfigurationName": "MVC-3.0",
+    "LanguageVersion": "6.0",
+    "Extensions": [
+      {
+        "ExtensionName": "MVC-3.0"
+      }
+    ]
+  },
+  "ProjectWorkspaceState": {
+    "TagHelpers": [],
+    "CSharpLanguageVersion": 1100
+  },
+  "RootNamespace": "WeatherForecast.Web",
+  "Documents": [
+    {
+      "FilePath": "c:\\Users\\sinle\\OneDrive\\Documents\\FirstApi\\WeatherForecast.Web\\Views\\WeatherForecast\\WeatherForecastIndex.cshtml",
+      "TargetPath": "Views\\WeatherForecast\\WeatherForecastIndex.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\sinle\\OneDrive\\Documents\\FirstApi\\WeatherForecast.Web\\Views\\Shared\\_Layout.cshtml",
+      "TargetPath": "Views\\Shared\\_Layout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\sinle\\OneDrive\\Documents\\FirstApi\\WeatherForecast.Web\\Views\\_ViewImports.cshtml",
+      "TargetPath": "Views\\_ViewImports.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\sinle\\OneDrive\\Documents\\FirstApi\\WeatherForecast.Web\\Views\\Home\\Privacy.cshtml",
+      "TargetPath": "Views\\Home\\Privacy.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\sinle\\OneDrive\\Documents\\FirstApi\\WeatherForecast.Web\\Views\\Sorted\\SortedIndex.cshtml",
+      "TargetPath": "Views\\Sorted\\SortedIndex.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\sinle\\OneDrive\\Documents\\FirstApi\\WeatherForecast.Web\\Views\\Shared\\Error.cshtml",
+      "TargetPath": "Views\\Shared\\Error.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\sinle\\OneDrive\\Documents\\FirstApi\\WeatherForecast.Web\\Views\\Single\\SingleIndex.cshtml",
+      "TargetPath": "Views\\Single\\SingleIndex.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\sinle\\OneDrive\\Documents\\FirstApi\\WeatherForecast.Web\\Views\\Home\\Index.cshtml",
+      "TargetPath": "Views\\Home\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\sinle\\OneDrive\\Documents\\FirstApi\\WeatherForecast.Web\\Views\\All\\AllIndex.cshtml",
+      "TargetPath": "Views\\All\\AllIndex.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\sinle\\OneDrive\\Documents\\FirstApi\\WeatherForecast.Web\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\sinle\\OneDrive\\Documents\\FirstApi\\WeatherForecast.Web\\Views\\_ViewStart.cshtml",
+      "TargetPath": "Views\\_ViewStart.cshtml",
+      "FileKind": "mvc"
+    }
+  ],
+  "SerializationFormat": "0.3"
+}

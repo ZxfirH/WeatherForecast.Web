@@ -1,0 +1,21 @@
+@model IEnumerable<WeatherForecast.Web.Models.WeatherForecastModel>
+
+<br/>
+<br/>
+<table class="table">
+        <tdead>
+            <tr>
+                <th>All</th>
+            </tr>
+        </tdead>
+            <tbody>
+                <tr>
+                 @if(Model != null)
+                {
+                    <td>@Model.FirstOrDefault().SortedWords</td>
+                }
+            </tr>
+            </tbody>
+            
+    </table>
+</div>
